@@ -61,7 +61,7 @@ Handwritten-Character-Recognition/
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/Handwritten-Character-Recognition.git
+git clone https://github.com/your-username/HorizonTechX__HandwrittenCharacterRecognition.git
 ```
 
 Go to the project folder:
@@ -93,6 +93,18 @@ python ocr_predict.py
 ```
 
 ---
+
+## Sample Output
+
+### Input Image
+
+<img src="sample_images/word_input.jpeg" width="350">
+
+### Output Image
+
+<img src="outputs/05_final_output.png" width="600">
+
+The OCR system detects handwritten characters, predicts each character using the trained CNN model, and displays the recognized text with bounding boxes.
 
 ## Output
 
