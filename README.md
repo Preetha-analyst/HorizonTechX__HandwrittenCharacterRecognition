@@ -98,7 +98,7 @@ python ocr_predict.py
 
 ### Input Image
 
-<img src="sample_images/word_input.jpeg" width="350">
+<img src="word_input.jpeg" width="350">
 
 ### Output Image
 
